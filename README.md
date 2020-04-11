@@ -1,5 +1,5 @@
 # Support of the app Fast French Learning
-![Group 73](https://user-images.githubusercontent.com/37581896/79034668-57fd1e00-7b8e-11ea-90ed-280db7b2d565.png)
+![Group 365](https://user-images.githubusercontent.com/37581896/79034682-7c58fa80-7b8e-11ea-8ca6-2abea9853066.png)
 
 Privacy Policy
 Augusto Paixão, the main producer of Fast French Learning? takes your privacy very seriously and will follow the highest standard to protect it. By using the app, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
