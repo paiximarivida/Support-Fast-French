@@ -25,7 +25,7 @@ The app is designed for devices with +iOS 13.0
 No
 
 ## Can I buy an ad-free version of the app?
-No, at this moment we're only running ad-based
+No, at this moment we're only running ads-based
 
 ## How to reach us to further questions and troublemaking?
 You can contact us at any time through our social networks Facebook and Instagram (search for @IDKYApps) or send an email to augustohmp@hotmail.com
